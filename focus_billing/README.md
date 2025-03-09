@@ -28,11 +28,11 @@ This repository contains the Focus Billing project, which is designed to manage 
 ### Resources
 0. Links to source files can be found in `BeerCraft_Technical_Exercise.pdf`
 1. Process the data using either:
--  **Jupyter Notebook** using the scripts in the `scripts/` directory
--  **Airflow** by running `azure_billing_dag.py`
+    -  **Jupyter Notebook** using the scripts in the `scripts/` directory
+    -  **Airflow** by running `azure_billing_dag.py`
 2. Resulting data (FOCUS transformed billing file) will be stored in `focus_billing.csv` file
 3. Download `focus_billing.csv` file to your local environment
 4. Visualization project is available in `dashboard/` folder
--  Open it in **PowerBI Desktop** and _feed_ it with previously downloaded data
+    -  Open it in **PowerBI Desktop** and _feed_ it with previously downloaded data
 
 For detailed instructions on required setup steps, refer to the respective documentation links provided above.
