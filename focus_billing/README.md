@@ -26,7 +26,7 @@ This repository contains the Focus Billing project, which is designed to manage 
     - Use the project file in the `dashboard/` directory to explore report.
 
 ### Resources
-
+0. Links to source files can be found in `BeerCraft_Technical_Exercise.pdf`
 1. Process the data using either:
 -  **Jupyter Notebook** using the scripts in the `scripts/` directory
 -  **Airflow** by running `azure_billing_dag.py`
