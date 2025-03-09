@@ -7,6 +7,7 @@ This repository contains the Focus Billing project, which is designed to manage 
 - `dags/`: Directory containing airflow-ready dag file.
 - `scripts/`: Jupyter Notebooks for data processing and analysis.
 - `dashboard/`: PowerBI Desktop project file for interactive data analysis.
+- `BeerCraft_Technical_Exercise.pdf`: Casefile containing project description and source (cost and price) files.
 - `README.md`: Project documentation.
 
 ## How to Use
